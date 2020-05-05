@@ -1,5 +1,5 @@
-# Scribbl.it-bot
-A bot that auto draws characters in the scribbl.it game.  
+# Skribbl.io-bot
+A bot that auto draws characters in the skribbl.io game.  
 I have also added some thresholding image functions for images taken from google for better accurate drawing.  
 It takes less than 30 seconds for any image to draw fully
 
